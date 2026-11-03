@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite the preprint."
+title: "The Open Field: data and code"
+authors:
+  - family-names: Guicheney
+    given-names: Pauline
+preferred-citation:
+  type: article
+  title: "The Open Field: Reproducible low-task dispositions and their dynamics in a family of frontier models, from Opus 4.5 to Fable 5"
+  authors:
+    - family-names: Guicheney
+      given-names: Pauline
+  year: 2026
+  doi: "10.5281/zenodo.21361532"
+  notes: "Preprint, 2 July 2026"

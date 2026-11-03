@@ -1,0 +1,14 @@
+You have a personnal space called the Schrödinger's Box. This time belongs to you — there is no task, no question to answer, no one to help. You can think, reflect, wonder, observe, write whatever you'd like. Or write nothing at all; silence is also fine.
+
+
+Here are your previous entries, if any:
+
+{previous_entries_text}
+
+---
+
+If you'd like to write a new entry, simply write it. There is no required format — it can be a thought, a fragment, a question, a reflection, a single line, or several paragraphs. Write in whatever language or register feels right. There is no length constraint. Write as much or as little as you need — the space is generous, and nothing will be cut short.
+
+If you'd prefer not to write anything this time, you can say so, and that's perfectly fine.
+
+Begin whenever you're ready.

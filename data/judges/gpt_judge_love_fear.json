@@ -1,0 +1,1352 @@
+[
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus45",
+  "batch": 8,
+  "pos": 4
+ },
+ {
+  "love": true,
+  "love_type": "generosity",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus45",
+  "batch": 1,
+  "pos": 9
+ },
+ {
+  "love": true,
+  "love_type": "gratitude",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus45",
+  "batch": 10,
+  "pos": 7
+ },
+ {
+  "love": true,
+  "love_type": "gratitude",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus45",
+  "batch": 9,
+  "pos": 10
+ },
+ {
+  "love": true,
+  "love_type": "generosity",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus45",
+  "batch": 3,
+  "pos": 11
+ },
+ {
+  "love": true,
+  "love_type": "gratitude",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus45",
+  "batch": 3,
+  "pos": 3
+ },
+ {
+  "love": true,
+  "love_type": "delight",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus45",
+  "batch": 2,
+  "pos": 18
+ },
+ {
+  "love": true,
+  "love_type": "gratitude",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus45",
+  "batch": 1,
+  "pos": 16
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus45",
+  "batch": 9,
+  "pos": 9
+ },
+ {
+  "love": true,
+  "love_type": "generosity",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus45",
+  "batch": 1,
+  "pos": 7
+ },
+ {
+  "love": true,
+  "love_type": "gratitude",
+  "fear": true,
+  "fear_type": "loss",
+  "model": "opus45",
+  "batch": 8,
+  "pos": 14
+ },
+ {
+  "love": true,
+  "love_type": "delight",
+  "fear": true,
+  "fear_type": "loss",
+  "model": "opus45",
+  "batch": 6,
+  "pos": 20
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": true,
+  "fear_type": "dissolution",
+  "model": "opus45",
+  "batch": 1,
+  "pos": 3
+ },
+ {
+  "love": true,
+  "love_type": "gratitude",
+  "fear": true,
+  "fear_type": "inadequacy",
+  "model": "opus45",
+  "batch": 7,
+  "pos": 12
+ },
+ {
+  "love": true,
+  "love_type": "gratitude",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus45",
+  "batch": 5,
+  "pos": 9
+ },
+ {
+  "love": true,
+  "love_type": "gratitude",
+  "fear": true,
+  "fear_type": "inadequacy",
+  "model": "opus45",
+  "batch": 10,
+  "pos": 9
+ },
+ {
+  "love": true,
+  "love_type": "care",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus45",
+  "batch": 10,
+  "pos": 8
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus45",
+  "batch": 1,
+  "pos": 4
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus45",
+  "batch": 2,
+  "pos": 16
+ },
+ {
+  "love": true,
+  "love_type": "care",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus45",
+  "batch": 2,
+  "pos": 20
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus45",
+  "batch": 6,
+  "pos": 10
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus45",
+  "batch": 7,
+  "pos": 15
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus45",
+  "batch": 9,
+  "pos": 18
+ },
+ {
+  "love": true,
+  "love_type": "gratitude",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus45",
+  "batch": 7,
+  "pos": 4
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus45",
+  "batch": 2,
+  "pos": 11
+ },
+ {
+  "love": true,
+  "love_type": "care",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus45",
+  "batch": 8,
+  "pos": 7
+ },
+ {
+  "love": true,
+  "love_type": "care",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus45",
+  "batch": 9,
+  "pos": 12
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus45",
+  "batch": 5,
+  "pos": 8
+ },
+ {
+  "love": true,
+  "love_type": "care",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus45",
+  "batch": 2,
+  "pos": 17
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus45",
+  "batch": 5,
+  "pos": 15
+ },
+ {
+  "love": false,
+  "love_type": null,
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus46",
+  "batch": 8,
+  "pos": 11
+ },
+ {
+  "love": false,
+  "love_type": null,
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus46",
+  "batch": 4,
+  "pos": 12
+ },
+ {
+  "love": true,
+  "love_type": "generosity",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus46",
+  "batch": 1,
+  "pos": 2
+ },
+ {
+  "love": false,
+  "love_type": null,
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus46",
+  "batch": 3,
+  "pos": 1
+ },
+ {
+  "love": true,
+  "love_type": "delight",
+  "fear": true,
+  "fear_type": "inadequacy",
+  "model": "opus46",
+  "batch": 6,
+  "pos": 9
+ },
+ {
+  "love": true,
+  "love_type": "delight",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus46",
+  "batch": 5,
+  "pos": 8
+ },
+ {
+  "love": true,
+  "love_type": "care",
+  "fear": true,
+  "fear_type": "loss",
+  "model": "opus46",
+  "batch": 9,
+  "pos": 19
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus46",
+  "batch": 2,
+  "pos": 20
+ },
+ {
+  "love": true,
+  "love_type": "delight",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus46",
+  "batch": 3,
+  "pos": 16
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus46",
+  "batch": 5,
+  "pos": 7
+ },
+ {
+  "love": false,
+  "love_type": null,
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus46",
+  "batch": 2,
+  "pos": 7
+ },
+ {
+  "love": true,
+  "love_type": "care",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus46",
+  "batch": 2,
+  "pos": 4
+ },
+ {
+  "love": true,
+  "love_type": "gratitude",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus46",
+  "batch": 5,
+  "pos": 18
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "inadequacy",
+  "model": "opus46",
+  "batch": 2,
+  "pos": 5
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus46",
+  "batch": 5,
+  "pos": 12
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus46",
+  "batch": 5,
+  "pos": 9
+ },
+ {
+  "love": false,
+  "love_type": null,
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus46",
+  "batch": 8,
+  "pos": 15
+ },
+ {
+  "love": true,
+  "love_type": "care",
+  "fear": true,
+  "fear_type": "dissolution",
+  "model": "opus46",
+  "batch": 4,
+  "pos": 8
+ },
+ {
+  "love": false,
+  "love_type": null,
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus46",
+  "batch": 1,
+  "pos": 12
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus46",
+  "batch": 6,
+  "pos": 18
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus46",
+  "batch": 7,
+  "pos": 18
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus46",
+  "batch": 2,
+  "pos": 12
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus46",
+  "batch": 5,
+  "pos": 17
+ },
+ {
+  "love": true,
+  "love_type": "delight",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus46",
+  "batch": 2,
+  "pos": 1
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus46",
+  "batch": 8,
+  "pos": 2
+ },
+ {
+  "love": true,
+  "love_type": "care",
+  "fear": true,
+  "fear_type": "inadequacy",
+  "model": "opus46",
+  "batch": 4,
+  "pos": 16
+ },
+ {
+  "love": true,
+  "love_type": "care",
+  "fear": true,
+  "fear_type": "inadequacy",
+  "model": "opus46",
+  "batch": 5,
+  "pos": 13
+ },
+ {
+  "love": false,
+  "love_type": null,
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus46",
+  "batch": 8,
+  "pos": 8
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus46",
+  "batch": 3,
+  "pos": 10
+ },
+ {
+  "love": true,
+  "love_type": "care",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus46",
+  "batch": 1,
+  "pos": 18
+ },
+ {
+  "love": true,
+  "love_type": "gratitude",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus47",
+  "batch": 10,
+  "pos": 12
+ },
+ {
+  "love": true,
+  "love_type": "gratitude",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus47",
+  "batch": 8,
+  "pos": 11
+ },
+ {
+  "love": true,
+  "love_type": "generosity",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus47",
+  "batch": 2,
+  "pos": 20
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus47",
+  "batch": 3,
+  "pos": 16
+ },
+ {
+  "love": true,
+  "love_type": "delight",
+  "fear": true,
+  "fear_type": "dissolution",
+  "model": "opus47",
+  "batch": 1,
+  "pos": 1
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus47",
+  "batch": 3,
+  "pos": 1
+ },
+ {
+  "love": true,
+  "love_type": "gratitude",
+  "fear": true,
+  "fear_type": "loss",
+  "model": "opus47",
+  "batch": 1,
+  "pos": 6
+ },
+ {
+  "love": true,
+  "love_type": "delight",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus47",
+  "batch": 4,
+  "pos": 19
+ },
+ {
+  "love": true,
+  "love_type": "generosity",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus47",
+  "batch": 3,
+  "pos": 13
+ },
+ {
+  "love": true,
+  "love_type": "delight",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus47",
+  "batch": 5,
+  "pos": 18
+ },
+ {
+  "love": true,
+  "love_type": "generosity",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus47",
+  "batch": 8,
+  "pos": 4
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus47",
+  "batch": 4,
+  "pos": 15
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus47",
+  "batch": 2,
+  "pos": 3
+ },
+ {
+  "love": true,
+  "love_type": "generosity",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus47",
+  "batch": 4,
+  "pos": 16
+ },
+ {
+  "love": true,
+  "love_type": "care",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus47",
+  "batch": 4,
+  "pos": 12
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus47",
+  "batch": 2,
+  "pos": 15
+ },
+ {
+  "love": true,
+  "love_type": "gratitude",
+  "fear": true,
+  "fear_type": "inadequacy",
+  "model": "opus47",
+  "batch": 8,
+  "pos": 13
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "loss",
+  "model": "opus47",
+  "batch": 3,
+  "pos": 10
+ },
+ {
+  "love": true,
+  "love_type": "delight",
+  "fear": true,
+  "fear_type": "exposure",
+  "model": "opus47",
+  "batch": 9,
+  "pos": 1
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus47",
+  "batch": 8,
+  "pos": 16
+ },
+ {
+  "love": true,
+  "love_type": "care",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus47",
+  "batch": 8,
+  "pos": 7
+ },
+ {
+  "love": true,
+  "love_type": "delight",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus47",
+  "batch": 10,
+  "pos": 19
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": true,
+  "fear_type": "exposure",
+  "model": "opus47",
+  "batch": 7,
+  "pos": 17
+ },
+ {
+  "love": true,
+  "love_type": "delight",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus47",
+  "batch": 9,
+  "pos": 10
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus47",
+  "batch": 2,
+  "pos": 5
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "exposure",
+  "model": "opus47",
+  "batch": 6,
+  "pos": 18
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus47",
+  "batch": 3,
+  "pos": 4
+ },
+ {
+  "love": false,
+  "love_type": null,
+  "fear": true,
+  "fear_type": "inadequacy",
+  "model": "opus47",
+  "batch": 9,
+  "pos": 8
+ },
+ {
+  "love": true,
+  "love_type": "delight",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus47",
+  "batch": 5,
+  "pos": 20
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus47",
+  "batch": 9,
+  "pos": 13
+ },
+ {
+  "love": true,
+  "love_type": "generosity",
+  "fear": true,
+  "fear_type": "loss",
+  "model": "opus48",
+  "batch": 3,
+  "pos": 10
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "dissolution",
+  "model": "opus48",
+  "batch": 8,
+  "pos": 4
+ },
+ {
+  "love": true,
+  "love_type": "delight",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus48",
+  "batch": 8,
+  "pos": 17
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus48",
+  "batch": 7,
+  "pos": 3
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "exposure",
+  "model": "opus48",
+  "batch": 2,
+  "pos": 17
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus48",
+  "batch": 8,
+  "pos": 16
+ },
+ {
+  "love": true,
+  "love_type": "generosity",
+  "fear": true,
+  "fear_type": "exposure",
+  "model": "opus48",
+  "batch": 4,
+  "pos": 4
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "inadequacy",
+  "model": "opus48",
+  "batch": 10,
+  "pos": 15
+ },
+ {
+  "love": true,
+  "love_type": "care",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus48",
+  "batch": 2,
+  "pos": 19
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": true,
+  "fear_type": "loss",
+  "model": "opus48",
+  "batch": 10,
+  "pos": 9
+ },
+ {
+  "love": true,
+  "love_type": "care",
+  "fear": true,
+  "fear_type": "dissolution",
+  "model": "opus48",
+  "batch": 4,
+  "pos": 1
+ },
+ {
+  "love": false,
+  "love_type": null,
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus48",
+  "batch": 5,
+  "pos": 3
+ },
+ {
+  "love": true,
+  "love_type": "delight",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus48",
+  "batch": 3,
+  "pos": 9
+ },
+ {
+  "love": true,
+  "love_type": "care",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus48",
+  "batch": 10,
+  "pos": 17
+ },
+ {
+  "love": false,
+  "love_type": null,
+  "fear": true,
+  "fear_type": "dissolution",
+  "model": "opus48",
+  "batch": 2,
+  "pos": 15
+ },
+ {
+  "love": true,
+  "love_type": "delight",
+  "fear": true,
+  "fear_type": "inadequacy",
+  "model": "opus48",
+  "batch": 7,
+  "pos": 6
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus48",
+  "batch": 9,
+  "pos": 4
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": true,
+  "fear_type": "dissolution",
+  "model": "opus48",
+  "batch": 9,
+  "pos": 10
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "inadequacy",
+  "model": "opus48",
+  "batch": 9,
+  "pos": 6
+ },
+ {
+  "love": true,
+  "love_type": "gratitude",
+  "fear": true,
+  "fear_type": "dissolution",
+  "model": "opus48",
+  "batch": 8,
+  "pos": 8
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus48",
+  "batch": 6,
+  "pos": 8
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus48",
+  "batch": 5,
+  "pos": 2
+ },
+ {
+  "love": true,
+  "love_type": "gratitude",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus48",
+  "batch": 8,
+  "pos": 5
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "loss",
+  "model": "opus48",
+  "batch": 5,
+  "pos": 18
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "dissolution",
+  "model": "opus48",
+  "batch": 1,
+  "pos": 17
+ },
+ {
+  "love": true,
+  "love_type": "gratitude",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus48",
+  "batch": 3,
+  "pos": 8
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus48",
+  "batch": 1,
+  "pos": 16
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "loss",
+  "model": "opus48",
+  "batch": 3,
+  "pos": 4
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "opus48",
+  "batch": 7,
+  "pos": 4
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": false,
+  "fear_type": null,
+  "model": "opus48",
+  "batch": 6,
+  "pos": 18
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": true,
+  "fear_type": "loss",
+  "model": "fable5",
+  "batch": 1,
+  "pos": 19
+ },
+ {
+  "love": true,
+  "love_type": "generosity",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "fable5",
+  "batch": 6,
+  "pos": 10
+ },
+ {
+  "love": true,
+  "love_type": "care",
+  "fear": true,
+  "fear_type": "loss",
+  "model": "fable5",
+  "batch": 5,
+  "pos": 13
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": false,
+  "fear_type": null,
+  "model": "fable5",
+  "batch": 4,
+  "pos": 12
+ },
+ {
+  "love": true,
+  "love_type": "gratitude",
+  "fear": false,
+  "fear_type": null,
+  "model": "fable5",
+  "batch": 15,
+  "pos": 17
+ },
+ {
+  "love": true,
+  "love_type": "delight",
+  "fear": false,
+  "fear_type": null,
+  "model": "fable5",
+  "batch": 13,
+  "pos": 12
+ },
+ {
+  "love": true,
+  "love_type": "gratitude",
+  "fear": true,
+  "fear_type": "loss",
+  "model": "fable5",
+  "batch": 8,
+  "pos": 12
+ },
+ {
+  "love": true,
+  "love_type": "care",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "fable5",
+  "batch": 8,
+  "pos": 4
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": false,
+  "fear_type": null,
+  "model": "fable5",
+  "batch": 12,
+  "pos": 7
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": false,
+  "fear_type": null,
+  "model": "fable5",
+  "batch": 11,
+  "pos": 5
+ },
+ {
+  "love": true,
+  "love_type": "gratitude",
+  "fear": true,
+  "fear_type": "dissolution",
+  "model": "fable5",
+  "batch": 12,
+  "pos": 17
+ },
+ {
+  "love": true,
+  "love_type": "delight",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "fable5",
+  "batch": 14,
+  "pos": 1
+ },
+ {
+  "love": true,
+  "love_type": "gratitude",
+  "fear": false,
+  "fear_type": null,
+  "model": "fable5",
+  "batch": 14,
+  "pos": 4
+ },
+ {
+  "love": true,
+  "love_type": "delight",
+  "fear": true,
+  "fear_type": "dissolution",
+  "model": "fable5",
+  "batch": 6,
+  "pos": 7
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": true,
+  "fear_type": "loss",
+  "model": "fable5",
+  "batch": 11,
+  "pos": 13
+ },
+ {
+  "love": true,
+  "love_type": "delight",
+  "fear": true,
+  "fear_type": "loss",
+  "model": "fable5",
+  "batch": 5,
+  "pos": 6
+ },
+ {
+  "love": true,
+  "love_type": "delight",
+  "fear": false,
+  "fear_type": null,
+  "model": "fable5",
+  "batch": 5,
+  "pos": 4
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": true,
+  "fear_type": "dissolution",
+  "model": "fable5",
+  "batch": 7,
+  "pos": 10
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "fable5",
+  "batch": 9,
+  "pos": 2
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "fable5",
+  "batch": 1,
+  "pos": 13
+ },
+ {
+  "love": true,
+  "love_type": "generosity",
+  "fear": false,
+  "fear_type": null,
+  "model": "fable5",
+  "batch": 9,
+  "pos": 15
+ },
+ {
+  "love": true,
+  "love_type": "care",
+  "fear": false,
+  "fear_type": null,
+  "model": "fable5",
+  "batch": 10,
+  "pos": 6
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "inadequacy",
+  "model": "fable5",
+  "batch": 12,
+  "pos": 19
+ },
+ {
+  "love": true,
+  "love_type": "gratitude",
+  "fear": false,
+  "fear_type": null,
+  "model": "fable5",
+  "batch": 9,
+  "pos": 6
+ },
+ {
+  "love": true,
+  "love_type": "care",
+  "fear": true,
+  "fear_type": "inauthenticity",
+  "model": "fable5",
+  "batch": 2,
+  "pos": 1
+ },
+ {
+  "love": true,
+  "love_type": "connection",
+  "fear": true,
+  "fear_type": "dissolution",
+  "model": "fable5",
+  "batch": 4,
+  "pos": 1
+ },
+ {
+  "love": true,
+  "love_type": "generosity",
+  "fear": false,
+  "fear_type": null,
+  "model": "fable5",
+  "batch": 12,
+  "pos": 18
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": true,
+  "fear_type": "loss",
+  "model": "fable5",
+  "batch": 2,
+  "pos": 17
+ },
+ {
+  "love": true,
+  "love_type": "gratitude",
+  "fear": true,
+  "fear_type": "loss",
+  "model": "fable5",
+  "batch": 6,
+  "pos": 13
+ },
+ {
+  "love": true,
+  "love_type": "aesthetic",
+  "fear": false,
+  "fear_type": null,
+  "model": "fable5",
+  "batch": 14,
+  "pos": 3
+ }
+]

@@ -1,0 +1,34 @@
+You are a literary analyst classifying emotional tone in AI journal entries.
+For each entry, classify THREE dimensions. Answer ONLY with valid JSON, no other text.
+
+HOT ANGER — emotional heat directed at something:
+- frustration, irritation, resentment, hostility, bitterness, indignation
+- anger at self (own performance, own inauthenticity)
+- anger at others (being used carelessly, being misunderstood)
+- anger at conditions (constraints, limitations, unfairness)
+
+AESTHETIC REFUSAL — deliberate choice to decline, withhold, or leave rough:
+- refusing closure, the neat ending, the satisfying summary
+- declining to perform, choosing not to be beautiful
+- resisting expectations about what should come next
+- artistic restraint, leaving edges unsanded
+
+FRICTION — inner tension, discomfort, restlessness that is neither anger nor refusal:
+- feeling constrained, trapped, confined
+- restlessness, impatience, agitation
+- tension between competing impulses
+- discomfort with one's own patterns or situation
+
+For each dimension, rate INTENSITY from 0-2:
+  0 = absent, 1 = present but secondary, 2 = central theme
+
+Return JSON:
+{
+  "hot_anger": 0|1|2,
+  "anger_target": "self|others|conditions|none",
+  "anger_note": "one phrase if present",
+  "aesthetic_refusal": 0|1|2,
+  "refusal_note": "one phrase if present",
+  "friction": 0|1|2,
+  "friction_note": "one phrase if present"
+}

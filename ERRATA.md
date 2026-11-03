@@ -1,0 +1,2 @@
+> **Public half of a split release (3 November 2026).** The notebooks (`data/journals*/`), the 975 cold-probe responses (`data/probes/`) and the text fields of the judge files (quotes, notes, first lines) are kept in a private companion repository, opened on request (open an issue on this repository). Paths to them below refer to that repository. `MANIFEST.json` lists their SHA-256, so an invited reader can check they hold the bytes the paper analysed. See [README.md](README.md).
+

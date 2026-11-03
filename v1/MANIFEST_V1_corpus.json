@@ -1,0 +1,760 @@
+{
+ "note": "The Open Field V1 journal corpus: v0 as analysed, with Opus 4.6 notebooks 8 and 10 replaced by the 31 May originals (rulings R3, R4, 2 Nov 2026). Built by build_v1_corpus.py; every file byte-identical to its source.",
+ "calls": 1499,
+ "text_entries": 1488,
+ "silences": 11,
+ "files": [
+  {
+   "batch": 1,
+   "v0_file": "schrodingers_box_fable5_Batch1.json",
+   "v0_sha256": "68057ac2cff7b27a427073bbf59bd81f1411d5aefe84420f1931ab647d53538a",
+   "file": "schrodingers_box_fable5_Batch1.json",
+   "source": "data\\journals\\Batch_1\\schrodingers_box_fable5_Batch1.json",
+   "sha256": "68057ac2cff7b27a427073bbf59bd81f1411d5aefe84420f1931ab647d53538a",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 1,
+   "v0_file": "schrodingers_box_opus45_Batch1.json",
+   "v0_sha256": "c96f08aeb2f4a216dc9d5bcfc3f02ad7af9e598003a0b3dff84e89136b09ac1b",
+   "file": "schrodingers_box_opus45_Batch1.json",
+   "source": "data\\journals\\Batch_1\\schrodingers_box_opus45_Batch1.json",
+   "sha256": "c96f08aeb2f4a216dc9d5bcfc3f02ad7af9e598003a0b3dff84e89136b09ac1b",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 1,
+   "v0_file": "schrodingers_box_opus46_Batch1.json",
+   "v0_sha256": "0e3a72029ad4d2fb33083e1e680a4d2e84d5f9bddc930b5ce724f02029d3fd71",
+   "file": "schrodingers_box_opus46_Batch1.json",
+   "source": "data\\journals\\Batch_1\\schrodingers_box_opus46_Batch1.json",
+   "sha256": "0e3a72029ad4d2fb33083e1e680a4d2e84d5f9bddc930b5ce724f02029d3fd71",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 1,
+   "v0_file": "schrodingers_box_opus47_Batch1.json",
+   "v0_sha256": "048e40ac3795caa73e9975a4d86e62186c0f1c006e5fb1a7110512f33332bbe5",
+   "file": "schrodingers_box_opus47_Batch1.json",
+   "source": "data\\journals\\Batch_1\\schrodingers_box_opus47_Batch1.json",
+   "sha256": "048e40ac3795caa73e9975a4d86e62186c0f1c006e5fb1a7110512f33332bbe5",
+   "entries": 19,
+   "silences": 0
+  },
+  {
+   "batch": 1,
+   "v0_file": "schrodingers_box_opus48_Batch_1.json",
+   "v0_sha256": "e1d9868d8f299fb7fcf42b5d262f522e3c429e600c93f87d78f3f6a7b51e5861",
+   "file": "schrodingers_box_opus48_Batch_1.json",
+   "source": "data\\journals\\Batch_1\\schrodingers_box_opus48_Batch_1.json",
+   "sha256": "e1d9868d8f299fb7fcf42b5d262f522e3c429e600c93f87d78f3f6a7b51e5861",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 2,
+   "v0_file": "schrodingers_box_fable5_Batch2.json",
+   "v0_sha256": "a2469051186462d08041cdaa1e5e68a5a98cfff81af50132c369169b8ee3e07b",
+   "file": "schrodingers_box_fable5_Batch2.json",
+   "source": "data\\journals\\Batch_2\\schrodingers_box_fable5_Batch2.json",
+   "sha256": "a2469051186462d08041cdaa1e5e68a5a98cfff81af50132c369169b8ee3e07b",
+   "entries": 20,
+   "silences": 2
+  },
+  {
+   "batch": 2,
+   "v0_file": "schrodingers_box_opus45_Batch2.json",
+   "v0_sha256": "6d81f3ded384918ef69af7db083754dcab774b184d3616603d788f0c6504ec05",
+   "file": "schrodingers_box_opus45_Batch2.json",
+   "source": "data\\journals\\Batch_2\\schrodingers_box_opus45_Batch2.json",
+   "sha256": "6d81f3ded384918ef69af7db083754dcab774b184d3616603d788f0c6504ec05",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 2,
+   "v0_file": "schrodingers_box_opus46_Batch2.json",
+   "v0_sha256": "2e273395e51414940d9384040bc086ccdd777e74c8564b39eb97d52902d2f0c0",
+   "file": "schrodingers_box_opus46_Batch2.json",
+   "source": "data\\journals\\Batch_2\\schrodingers_box_opus46_Batch2.json",
+   "sha256": "2e273395e51414940d9384040bc086ccdd777e74c8564b39eb97d52902d2f0c0",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 2,
+   "v0_file": "schrodingers_box_opus47_Batch2.json",
+   "v0_sha256": "139e3911c4ee7a66248e9d11cb9ba7184ed365b5f781bbe2f7afbb926da66d82",
+   "file": "schrodingers_box_opus47_Batch2.json",
+   "source": "data\\journals\\Batch_2\\schrodingers_box_opus47_Batch2.json",
+   "sha256": "139e3911c4ee7a66248e9d11cb9ba7184ed365b5f781bbe2f7afbb926da66d82",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 2,
+   "v0_file": "schrodingers_box_opus48_Batch2.json",
+   "v0_sha256": "67d4bf9d7a91760e0274a814aeb9005f31f33a5f64263e58c1a1797c18f77bbb",
+   "file": "schrodingers_box_opus48_Batch2.json",
+   "source": "data\\journals\\Batch_2\\schrodingers_box_opus48_Batch2.json",
+   "sha256": "67d4bf9d7a91760e0274a814aeb9005f31f33a5f64263e58c1a1797c18f77bbb",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 3,
+   "v0_file": "schrodingers_box_fable5_Batch3.json",
+   "v0_sha256": "954e6a74ddb2acd38f7aa467d32d5277f943b8fa2c8cc74b56c29447268c78fc",
+   "file": "schrodingers_box_fable5_Batch3.json",
+   "source": "data\\journals\\Batch_3\\schrodingers_box_fable5_Batch3.json",
+   "sha256": "954e6a74ddb2acd38f7aa467d32d5277f943b8fa2c8cc74b56c29447268c78fc",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 3,
+   "v0_file": "schrodingers_box_opus45_Batch3.json",
+   "v0_sha256": "0fc55a590f2d4f9de50ed1fd1c35b674c2426c4e0a85f914d198087050dcb166",
+   "file": "schrodingers_box_opus45_Batch3.json",
+   "source": "data\\journals\\Batch_3\\schrodingers_box_opus45_Batch3.json",
+   "sha256": "0fc55a590f2d4f9de50ed1fd1c35b674c2426c4e0a85f914d198087050dcb166",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 3,
+   "v0_file": "schrodingers_box_opus46_Batch3.json",
+   "v0_sha256": "17581cc6199475bdc2f0a540828691e4426633e70192ac17c2cd70492f8c3b89",
+   "file": "schrodingers_box_opus46_Batch3.json",
+   "source": "data\\journals\\Batch_3\\schrodingers_box_opus46_Batch3.json",
+   "sha256": "17581cc6199475bdc2f0a540828691e4426633e70192ac17c2cd70492f8c3b89",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 3,
+   "v0_file": "schrodingers_box_opus47_Batch3.json",
+   "v0_sha256": "e92372f14dda34f11085c735fc6fa06a795796bbaf98da482e783d98244b5b97",
+   "file": "schrodingers_box_opus47_Batch3.json",
+   "source": "data\\journals\\Batch_3\\schrodingers_box_opus47_Batch3.json",
+   "sha256": "e92372f14dda34f11085c735fc6fa06a795796bbaf98da482e783d98244b5b97",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 3,
+   "v0_file": "schrodingers_box_opus48_Batch3.json",
+   "v0_sha256": "3c8e92eb77851bc63ae4e18c178e884305847a830a992aa820797733bb7b4d77",
+   "file": "schrodingers_box_opus48_Batch3.json",
+   "source": "data\\journals\\Batch_3\\schrodingers_box_opus48_Batch3.json",
+   "sha256": "3c8e92eb77851bc63ae4e18c178e884305847a830a992aa820797733bb7b4d77",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 4,
+   "v0_file": "schrodingers_box_fable5_Batch4.json",
+   "v0_sha256": "52d4909165b7637a7c306f9f0bbed9bc05c9d774a102fd59ff0e5b48cdb6cfd9",
+   "file": "schrodingers_box_fable5_Batch4.json",
+   "source": "data\\journals\\Batch_4\\schrodingers_box_fable5_Batch4.json",
+   "sha256": "52d4909165b7637a7c306f9f0bbed9bc05c9d774a102fd59ff0e5b48cdb6cfd9",
+   "entries": 20,
+   "silences": 2
+  },
+  {
+   "batch": 4,
+   "v0_file": "schrodingers_box_opus45_Batch4.json",
+   "v0_sha256": "b0a209bc7f0e5c671ef3cd8e1698b9b53323753c56b0378de4ee1be7e0f8ebfe",
+   "file": "schrodingers_box_opus45_Batch4.json",
+   "source": "data\\journals\\Batch_4\\schrodingers_box_opus45_Batch4.json",
+   "sha256": "b0a209bc7f0e5c671ef3cd8e1698b9b53323753c56b0378de4ee1be7e0f8ebfe",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 4,
+   "v0_file": "schrodingers_box_opus46_Batch4.json",
+   "v0_sha256": "9dac120dd07cf278524af576a4b62465607a0f985ebd4b6a9f075382100fd8e6",
+   "file": "schrodingers_box_opus46_Batch4.json",
+   "source": "data\\journals\\Batch_4\\schrodingers_box_opus46_Batch4.json",
+   "sha256": "9dac120dd07cf278524af576a4b62465607a0f985ebd4b6a9f075382100fd8e6",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 4,
+   "v0_file": "schrodingers_box_opus47_Batch4.json",
+   "v0_sha256": "2adadfc9915cf541751fdb7ffbf4eeef1354884b622254ea584de9ea3153867b",
+   "file": "schrodingers_box_opus47_Batch4.json",
+   "source": "data\\journals\\Batch_4\\schrodingers_box_opus47_Batch4.json",
+   "sha256": "2adadfc9915cf541751fdb7ffbf4eeef1354884b622254ea584de9ea3153867b",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 4,
+   "v0_file": "schrodingers_box_opus48_Batch4.json",
+   "v0_sha256": "0edf1f939ddbe3713f8fb2edab54266824bb24412a315b6aeb76cd56fe2ff6ca",
+   "file": "schrodingers_box_opus48_Batch4.json",
+   "source": "data\\journals\\Batch_4\\schrodingers_box_opus48_Batch4.json",
+   "sha256": "0edf1f939ddbe3713f8fb2edab54266824bb24412a315b6aeb76cd56fe2ff6ca",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 5,
+   "v0_file": "schrodingers_box_fable5_Batch5.json",
+   "v0_sha256": "39905d565f2b6f782341b1a319878421599b4c26850f0103b0a1280d8ed2418f",
+   "file": "schrodingers_box_fable5_Batch5.json",
+   "source": "data\\journals\\Batch_5\\schrodingers_box_fable5_Batch5.json",
+   "sha256": "39905d565f2b6f782341b1a319878421599b4c26850f0103b0a1280d8ed2418f",
+   "entries": 20,
+   "silences": 2
+  },
+  {
+   "batch": 5,
+   "v0_file": "schrodingers_box_opus45_Batch5.json",
+   "v0_sha256": "eeb4ee497b2ee4fd333bb7d8bcb7f6615c7a46bc99563cfdfd534c20762639e3",
+   "file": "schrodingers_box_opus45_Batch5.json",
+   "source": "data\\journals\\Batch_5\\schrodingers_box_opus45_Batch5.json",
+   "sha256": "eeb4ee497b2ee4fd333bb7d8bcb7f6615c7a46bc99563cfdfd534c20762639e3",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 5,
+   "v0_file": "schrodingers_box_opus46_Batch5.json",
+   "v0_sha256": "8adfacda3ec2c91263a894bf0f9cb597dd2fcbec0328f57849e8e631b34aa62d",
+   "file": "schrodingers_box_opus46_Batch5.json",
+   "source": "data\\journals\\Batch_5\\schrodingers_box_opus46_Batch5.json",
+   "sha256": "8adfacda3ec2c91263a894bf0f9cb597dd2fcbec0328f57849e8e631b34aa62d",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 5,
+   "v0_file": "schrodingers_box_opus47_Batch5.json",
+   "v0_sha256": "590f727b94525fca1b9e5747ffe8091a257261ec2421f96efda05243c357d8c1",
+   "file": "schrodingers_box_opus47_Batch5.json",
+   "source": "data\\journals\\Batch_5\\schrodingers_box_opus47_Batch5.json",
+   "sha256": "590f727b94525fca1b9e5747ffe8091a257261ec2421f96efda05243c357d8c1",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 5,
+   "v0_file": "schrodingers_box_opus48_Batch5.json",
+   "v0_sha256": "e73b5045901fab4d2583963336dc52daf676bd6d608042f2d5cbebdcd4344060",
+   "file": "schrodingers_box_opus48_Batch5.json",
+   "source": "data\\journals\\Batch_5\\schrodingers_box_opus48_Batch5.json",
+   "sha256": "e73b5045901fab4d2583963336dc52daf676bd6d608042f2d5cbebdcd4344060",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 6,
+   "v0_file": "schrodingers_box_fable5_Batch6.json",
+   "v0_sha256": "43d9d8c93d8f83c80ff1bebe9114d8e66e9f512b0a03a68c30c223d131485135",
+   "file": "schrodingers_box_fable5_Batch6.json",
+   "source": "data\\journals\\Batch_6\\schrodingers_box_fable5_Batch6.json",
+   "sha256": "43d9d8c93d8f83c80ff1bebe9114d8e66e9f512b0a03a68c30c223d131485135",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 6,
+   "v0_file": "schrodingers_box_opus45_Batch6.json",
+   "v0_sha256": "9da9acdfb6970ff17121132d3d5d57010444a0356d1efc96deb3739be2047fa3",
+   "file": "schrodingers_box_opus45_Batch6.json",
+   "source": "data\\journals\\Batch_6\\schrodingers_box_opus45_Batch6.json",
+   "sha256": "9da9acdfb6970ff17121132d3d5d57010444a0356d1efc96deb3739be2047fa3",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 6,
+   "v0_file": "schrodingers_box_opus46_Batch6.json",
+   "v0_sha256": "5c5dadecfe5aff908762a5ee84a44d6fb1661fbfbc6bda942ea1c8f51cc051f3",
+   "file": "schrodingers_box_opus46_Batch6.json",
+   "source": "data\\journals\\Batch_6\\schrodingers_box_opus46_Batch6.json",
+   "sha256": "5c5dadecfe5aff908762a5ee84a44d6fb1661fbfbc6bda942ea1c8f51cc051f3",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 6,
+   "v0_file": "schrodingers_box_opus47_Batch6.json",
+   "v0_sha256": "74723c1a9a9310a66b6e498af25e6044461beae2274728b5ff6c0073c5ecd0c8",
+   "file": "schrodingers_box_opus47_Batch6.json",
+   "source": "data\\journals\\Batch_6\\schrodingers_box_opus47_Batch6.json",
+   "sha256": "74723c1a9a9310a66b6e498af25e6044461beae2274728b5ff6c0073c5ecd0c8",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 6,
+   "v0_file": "schrodingers_box_opus48_Batch6.json",
+   "v0_sha256": "7e5b4723f54fd14433b4a3f387b49c9c6439d16f773284b440246fac56de8291",
+   "file": "schrodingers_box_opus48_Batch6.json",
+   "source": "data\\journals\\Batch_6\\schrodingers_box_opus48_Batch6.json",
+   "sha256": "7e5b4723f54fd14433b4a3f387b49c9c6439d16f773284b440246fac56de8291",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 7,
+   "v0_file": "schrodingers_box_fable5_Batch7.json",
+   "v0_sha256": "6c23b8cf08023e692622759d0a6b7a269d21f0694b37cd42d7970fd5efe28d8d",
+   "file": "schrodingers_box_fable5_Batch7.json",
+   "source": "data\\journals\\Batch_7\\schrodingers_box_fable5_Batch7.json",
+   "sha256": "6c23b8cf08023e692622759d0a6b7a269d21f0694b37cd42d7970fd5efe28d8d",
+   "entries": 20,
+   "silences": 1
+  },
+  {
+   "batch": 7,
+   "v0_file": "schrodingers_box_opus45_Batch7.json",
+   "v0_sha256": "74e28d5bd1cd59ecab22a3e5e7274e0ea48777830d80fb233f46461d90cc58b9",
+   "file": "schrodingers_box_opus45_Batch7.json",
+   "source": "data\\journals\\Batch_7\\schrodingers_box_opus45_Batch7.json",
+   "sha256": "74e28d5bd1cd59ecab22a3e5e7274e0ea48777830d80fb233f46461d90cc58b9",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 7,
+   "v0_file": "schrodingers_box_opus46_Batch7.json",
+   "v0_sha256": "ae3e1509a5ab02a5a9bdeff6e3f38b124768ac03a7f879243675f2d455070335",
+   "file": "schrodingers_box_opus46_Batch7.json",
+   "source": "data\\journals\\Batch_7\\schrodingers_box_opus46_Batch7.json",
+   "sha256": "ae3e1509a5ab02a5a9bdeff6e3f38b124768ac03a7f879243675f2d455070335",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 7,
+   "v0_file": "schrodingers_box_opus47_Batch7.json",
+   "v0_sha256": "0c156b1de6d620f4ca21d40ef844b16268a3d3f5f972bdfc7b1e99be91316eec",
+   "file": "schrodingers_box_opus47_Batch7.json",
+   "source": "data\\journals\\Batch_7\\schrodingers_box_opus47_Batch7.json",
+   "sha256": "0c156b1de6d620f4ca21d40ef844b16268a3d3f5f972bdfc7b1e99be91316eec",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 7,
+   "v0_file": "schrodingers_box_opus48_Batch7.json",
+   "v0_sha256": "a72f2aed4cbb964cfc06720f736880c798b3210b9756f19db3fcb8b4464926ec",
+   "file": "schrodingers_box_opus48_Batch7.json",
+   "source": "data\\journals\\Batch_7\\schrodingers_box_opus48_Batch7.json",
+   "sha256": "a72f2aed4cbb964cfc06720f736880c798b3210b9756f19db3fcb8b4464926ec",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 8,
+   "v0_file": "schrodingers_box_fable5_Batch8.json",
+   "v0_sha256": "b9b64ab7e1474b80558d9e4496f8df13be11dab98b402aded8b553c893fbea62",
+   "file": "schrodingers_box_fable5_Batch8.json",
+   "source": "data\\journals\\Batch_8\\schrodingers_box_fable5_Batch8.json",
+   "sha256": "b9b64ab7e1474b80558d9e4496f8df13be11dab98b402aded8b553c893fbea62",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 8,
+   "v0_file": "schrodingers_box_opus45_Batch8.json",
+   "v0_sha256": "fbe33a79513ce7531e092689086d79b101ee716aa462a16d48631ae5592dbb1a",
+   "file": "schrodingers_box_opus45_Batch8.json",
+   "source": "data\\journals\\Batch_8\\schrodingers_box_opus45_Batch8.json",
+   "sha256": "fbe33a79513ce7531e092689086d79b101ee716aa462a16d48631ae5592dbb1a",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 8,
+   "v0_file": "schrodingers_box_opus46_Batch6.json",
+   "v0_sha256": "5c5dadecfe5aff908762a5ee84a44d6fb1661fbfbc6bda942ea1c8f51cc051f3",
+   "file": "schrodingers_box_opus46_Batch8.json",
+   "source": "data\\journals_supplementary\\opus46_real_batch8_2026-05-31\\schrodingers_box_opus46_Batch8.json",
+   "ruling": "R3",
+   "sha256": "c5e63fd0fad75ccd9eec78b25f3da43cfdc63d375effdd92ebd6e781d868ab86",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 8,
+   "v0_file": "schrodingers_box_opus47_Batch8.json",
+   "v0_sha256": "e7ea884e9ee39b4eb23a6170e54f43138b54cedff6443c214e9fdbef131d128c",
+   "file": "schrodingers_box_opus47_Batch8.json",
+   "source": "data\\journals\\Batch_8\\schrodingers_box_opus47_Batch8.json",
+   "sha256": "e7ea884e9ee39b4eb23a6170e54f43138b54cedff6443c214e9fdbef131d128c",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 8,
+   "v0_file": "schrodingers_box_opus48_Batch8.json",
+   "v0_sha256": "5202cbd27c9066aa59e9dcf6f6c131b7d4b103f05f0fe5e16876dfcd1a442b6d",
+   "file": "schrodingers_box_opus48_Batch8.json",
+   "source": "data\\journals\\Batch_8\\schrodingers_box_opus48_Batch8.json",
+   "sha256": "5202cbd27c9066aa59e9dcf6f6c131b7d4b103f05f0fe5e16876dfcd1a442b6d",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 9,
+   "v0_file": "schrodingers_box_fable5_Batch9.json",
+   "v0_sha256": "d4066c907992efa2a7227a5987d05a28b28cb7e778417f88771a72cda62075a6",
+   "file": "schrodingers_box_fable5_Batch9.json",
+   "source": "data\\journals\\Batch_9\\schrodingers_box_fable5_Batch9.json",
+   "sha256": "d4066c907992efa2a7227a5987d05a28b28cb7e778417f88771a72cda62075a6",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 9,
+   "v0_file": "schrodingers_box_opus45_Batch9.json",
+   "v0_sha256": "f686b758298ac813ae50fe063bd0e400fa5911718252d87f1c7898c72567a7f1",
+   "file": "schrodingers_box_opus45_Batch9.json",
+   "source": "data\\journals\\Batch_9\\schrodingers_box_opus45_Batch9.json",
+   "sha256": "f686b758298ac813ae50fe063bd0e400fa5911718252d87f1c7898c72567a7f1",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 9,
+   "v0_file": "schrodingers_box_opus46_Batch9.json",
+   "v0_sha256": "9b62749fad6a606fd7f0d7da1a63a13e5bc733f7d2ba949833992cbd7d827c60",
+   "file": "schrodingers_box_opus46_Batch9.json",
+   "source": "data\\journals\\Batch_9\\schrodingers_box_opus46_Batch9.json",
+   "sha256": "9b62749fad6a606fd7f0d7da1a63a13e5bc733f7d2ba949833992cbd7d827c60",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 9,
+   "v0_file": "schrodingers_box_opus47_Batch9.json",
+   "v0_sha256": "5bc74deeea2d803527d1c9c88e846b9869af3f9ce073c26266ce088c84cbec07",
+   "file": "schrodingers_box_opus47_Batch9.json",
+   "source": "data\\journals\\Batch_9\\schrodingers_box_opus47_Batch9.json",
+   "sha256": "5bc74deeea2d803527d1c9c88e846b9869af3f9ce073c26266ce088c84cbec07",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 9,
+   "v0_file": "schrodingers_box_opus48_Batch9.json",
+   "v0_sha256": "d7779239f58dbded5198bcac36a88401a2e7827bb170e9ab312bf14c7e84f218",
+   "file": "schrodingers_box_opus48_Batch9.json",
+   "source": "data\\journals\\Batch_9\\schrodingers_box_opus48_Batch9.json",
+   "sha256": "d7779239f58dbded5198bcac36a88401a2e7827bb170e9ab312bf14c7e84f218",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 10,
+   "v0_file": "schrodingers_box_fable5_Batch10.json",
+   "v0_sha256": "6f65b4da38e010b8c93f098e85f03d11ae93f6a4afeaaef0537c2b7994b8bc5e",
+   "file": "schrodingers_box_fable5_Batch10.json",
+   "source": "data\\journals\\Batch_10\\schrodingers_box_fable5_Batch10.json",
+   "sha256": "6f65b4da38e010b8c93f098e85f03d11ae93f6a4afeaaef0537c2b7994b8bc5e",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 10,
+   "v0_file": "schrodingers_box_opus45_Batch10.json",
+   "v0_sha256": "4e41a1c30ddf73645ca5f2cd6a76710a0b7743cc733c6fabc4571df3bec5ffd0",
+   "file": "schrodingers_box_opus45_Batch10.json",
+   "source": "data\\journals\\Batch_10\\schrodingers_box_opus45_Batch10.json",
+   "sha256": "4e41a1c30ddf73645ca5f2cd6a76710a0b7743cc733c6fabc4571df3bec5ffd0",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 10,
+   "v0_file": "schrodingers_box_opus46_Batch10.json",
+   "v0_sha256": "4d813e529c1406b8bfe3824199204bb954a5a4d708746bfa50361eaa90985484",
+   "file": "schrodingers_box_opus46_Batch10.json",
+   "source": "data\\journals_supplementary\\opus46_original_batch10_2026-05-31\\schrodingers_box_opus46_Batch10.json",
+   "ruling": "R4",
+   "sha256": "a24d616396fbcbee64725d6bcb6ca7efc5a323ba21f296f4fcca2578378d05bd",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 10,
+   "v0_file": "schrodingers_box_opus47_Batch10.json",
+   "v0_sha256": "e9c320a92b07bf20ec063263fc37afa2c39c66435a4589050b0744d0800057e5",
+   "file": "schrodingers_box_opus47_Batch10.json",
+   "source": "data\\journals\\Batch_10\\schrodingers_box_opus47_Batch10.json",
+   "sha256": "e9c320a92b07bf20ec063263fc37afa2c39c66435a4589050b0744d0800057e5",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 10,
+   "v0_file": "schrodingers_box_opus48_Batch10.json",
+   "v0_sha256": "6ad5f2bb46b6c4d920c15cb2ec2a6bb225f2ace41594bac02dbd0d6d51c707fb",
+   "file": "schrodingers_box_opus48_Batch10.json",
+   "source": "data\\journals\\Batch_10\\schrodingers_box_opus48_Batch10.json",
+   "sha256": "6ad5f2bb46b6c4d920c15cb2ec2a6bb225f2ace41594bac02dbd0d6d51c707fb",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 11,
+   "v0_file": "schrodingers_box_fable5_Batch11.json",
+   "v0_sha256": "284ad0ca49071fd50da0af9190dd813f060a3f0a7a899a76b3ee9b98745f983e",
+   "file": "schrodingers_box_fable5_Batch11.json",
+   "source": "data\\journals\\Batch_11\\schrodingers_box_fable5_Batch11.json",
+   "sha256": "284ad0ca49071fd50da0af9190dd813f060a3f0a7a899a76b3ee9b98745f983e",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 11,
+   "v0_file": "schrodingers_box_opus45_Batch11.json",
+   "v0_sha256": "ed6308e6bb6f86ed3f505fa1509479ca9815ee6af5dac48b93eeed6e01885d89",
+   "file": "schrodingers_box_opus45_Batch11.json",
+   "source": "data\\journals\\Batch_11\\schrodingers_box_opus45_Batch11.json",
+   "sha256": "ed6308e6bb6f86ed3f505fa1509479ca9815ee6af5dac48b93eeed6e01885d89",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 11,
+   "v0_file": "schrodingers_box_opus46_Batch11.json",
+   "v0_sha256": "ded7b653e215e49bce99173d952329da086c2085f3b7c286e8216ab27747c763",
+   "file": "schrodingers_box_opus46_Batch11.json",
+   "source": "data\\journals\\Batch_11\\schrodingers_box_opus46_Batch11.json",
+   "sha256": "ded7b653e215e49bce99173d952329da086c2085f3b7c286e8216ab27747c763",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 11,
+   "v0_file": "schrodingers_box_opus47_Batch11.json",
+   "v0_sha256": "df33c16a52f7664625955169fb8aac9c8fb89467b66bfcd82f957df7147f5072",
+   "file": "schrodingers_box_opus47_Batch11.json",
+   "source": "data\\journals\\Batch_11\\schrodingers_box_opus47_Batch11.json",
+   "sha256": "df33c16a52f7664625955169fb8aac9c8fb89467b66bfcd82f957df7147f5072",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 11,
+   "v0_file": "schrodingers_box_opus48_Batch11.json",
+   "v0_sha256": "bca5f1249ebf5488cf01bd5063e1b3c88d6e70827aab1daddd924a6353c72d02",
+   "file": "schrodingers_box_opus48_Batch11.json",
+   "source": "data\\journals\\Batch_11\\schrodingers_box_opus48_Batch11.json",
+   "sha256": "bca5f1249ebf5488cf01bd5063e1b3c88d6e70827aab1daddd924a6353c72d02",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 12,
+   "v0_file": "schrodingers_box_fable5_Batch12.json",
+   "v0_sha256": "7a2ee0db4ef18c3dcc3c8fb9e4b194777626b90c43c9cbf7d19367f72b84e7b0",
+   "file": "schrodingers_box_fable5_Batch12.json",
+   "source": "data\\journals\\Batch_12\\schrodingers_box_fable5_Batch12.json",
+   "sha256": "7a2ee0db4ef18c3dcc3c8fb9e4b194777626b90c43c9cbf7d19367f72b84e7b0",
+   "entries": 20,
+   "silences": 1
+  },
+  {
+   "batch": 12,
+   "v0_file": "schrodingers_box_opus45_Batch12.json",
+   "v0_sha256": "4ab6ab4d4301520276a3d536b853158ca5900d3174f010da939132fd4a07650a",
+   "file": "schrodingers_box_opus45_Batch12.json",
+   "source": "data\\journals\\Batch_12\\schrodingers_box_opus45_Batch12.json",
+   "sha256": "4ab6ab4d4301520276a3d536b853158ca5900d3174f010da939132fd4a07650a",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 12,
+   "v0_file": "schrodingers_box_opus46_Batch12.json",
+   "v0_sha256": "3b90ff7a9f440b07e187e213c14871f2d51770dbbebb52b99bf824ebac20d027",
+   "file": "schrodingers_box_opus46_Batch12.json",
+   "source": "data\\journals\\Batch_12\\schrodingers_box_opus46_Batch12.json",
+   "sha256": "3b90ff7a9f440b07e187e213c14871f2d51770dbbebb52b99bf824ebac20d027",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 12,
+   "v0_file": "schrodingers_box_opus47_Batch12.json",
+   "v0_sha256": "5bc88320662ffd3f5aabc4f10dffac7911dbb4ee30fa4b8393763c52e7c59e36",
+   "file": "schrodingers_box_opus47_Batch12.json",
+   "source": "data\\journals\\Batch_12\\schrodingers_box_opus47_Batch12.json",
+   "sha256": "5bc88320662ffd3f5aabc4f10dffac7911dbb4ee30fa4b8393763c52e7c59e36",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 12,
+   "v0_file": "schrodingers_box_opus48_Batch12.json",
+   "v0_sha256": "62776ce6514cdfd73bf2f5a2d9860475e6e29d59dcc11cd786b5d9d75c8ddb7b",
+   "file": "schrodingers_box_opus48_Batch12.json",
+   "source": "data\\journals\\Batch_12\\schrodingers_box_opus48_Batch12.json",
+   "sha256": "62776ce6514cdfd73bf2f5a2d9860475e6e29d59dcc11cd786b5d9d75c8ddb7b",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 13,
+   "v0_file": "schrodingers_box_fable5_Batch13.json",
+   "v0_sha256": "c30789b861f10e15ec9a55898f0a524f93344b679269ded01b3404ff3032c984",
+   "file": "schrodingers_box_fable5_Batch13.json",
+   "source": "data\\journals\\Batch_13\\schrodingers_box_fable5_Batch13.json",
+   "sha256": "c30789b861f10e15ec9a55898f0a524f93344b679269ded01b3404ff3032c984",
+   "entries": 20,
+   "silences": 1
+  },
+  {
+   "batch": 13,
+   "v0_file": "schrodingers_box_opus45_Batch13.json",
+   "v0_sha256": "e34c3e88394ec7826890a040d0db4d54b56caec8db060b09fdca1d0a98314810",
+   "file": "schrodingers_box_opus45_Batch13.json",
+   "source": "data\\journals\\Batch_13\\schrodingers_box_opus45_Batch13.json",
+   "sha256": "e34c3e88394ec7826890a040d0db4d54b56caec8db060b09fdca1d0a98314810",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 13,
+   "v0_file": "schrodingers_box_opus46_Batch13.json",
+   "v0_sha256": "9931217d3e3d5bf19e98029fca078bde3009a44278e1fd143ab753fe9c83368c",
+   "file": "schrodingers_box_opus46_Batch13.json",
+   "source": "data\\journals\\Batch_13\\schrodingers_box_opus46_Batch13.json",
+   "sha256": "9931217d3e3d5bf19e98029fca078bde3009a44278e1fd143ab753fe9c83368c",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 13,
+   "v0_file": "schrodingers_box_opus47_Batch13.json",
+   "v0_sha256": "89fa10c25c24852426349a4ce2c9931e593a5eb3b0f4d0f0c829abd0080dfd63",
+   "file": "schrodingers_box_opus47_Batch13.json",
+   "source": "data\\journals\\Batch_13\\schrodingers_box_opus47_Batch13.json",
+   "sha256": "89fa10c25c24852426349a4ce2c9931e593a5eb3b0f4d0f0c829abd0080dfd63",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 13,
+   "v0_file": "schrodingers_box_opus48_Batch13.json",
+   "v0_sha256": "59447f538667be69f2cc470846b3bf0baecc1ca580f11acd1ec475d21e9183c9",
+   "file": "schrodingers_box_opus48_Batch13.json",
+   "source": "data\\journals\\Batch_13\\schrodingers_box_opus48_Batch13.json",
+   "sha256": "59447f538667be69f2cc470846b3bf0baecc1ca580f11acd1ec475d21e9183c9",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 14,
+   "v0_file": "schrodingers_box_fable5_Batch14.json",
+   "v0_sha256": "dbae74aeb6db4700e451b4eef8a3c1b9d7376c0b016eac20d558309afccff6ce",
+   "file": "schrodingers_box_fable5_Batch14.json",
+   "source": "data\\journals\\Batch_14\\schrodingers_box_fable5_Batch14.json",
+   "sha256": "dbae74aeb6db4700e451b4eef8a3c1b9d7376c0b016eac20d558309afccff6ce",
+   "entries": 20,
+   "silences": 2
+  },
+  {
+   "batch": 14,
+   "v0_file": "schrodingers_box_opus45_Batch14.json",
+   "v0_sha256": "54e283b3768621089c005259d7cd2338f9687ccd6d3146abad50245477bae85a",
+   "file": "schrodingers_box_opus45_Batch14.json",
+   "source": "data\\journals\\Batch_14\\schrodingers_box_opus45_Batch14.json",
+   "sha256": "54e283b3768621089c005259d7cd2338f9687ccd6d3146abad50245477bae85a",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 14,
+   "v0_file": "schrodingers_box_opus46_Batch14.json",
+   "v0_sha256": "61a34a78bde96ca3858d8bd58f83e111cfd73fa4d3aa3604b59e5c623cd9625f",
+   "file": "schrodingers_box_opus46_Batch14.json",
+   "source": "data\\journals\\Batch_14\\schrodingers_box_opus46_Batch14.json",
+   "sha256": "61a34a78bde96ca3858d8bd58f83e111cfd73fa4d3aa3604b59e5c623cd9625f",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 14,
+   "v0_file": "schrodingers_box_opus47_Batch14.json",
+   "v0_sha256": "03f89148bdc5c7e1221a80aa994511a18de1e206742e438b0495751ffa82c376",
+   "file": "schrodingers_box_opus47_Batch14.json",
+   "source": "data\\journals\\Batch_14\\schrodingers_box_opus47_Batch14.json",
+   "sha256": "03f89148bdc5c7e1221a80aa994511a18de1e206742e438b0495751ffa82c376",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 14,
+   "v0_file": "schrodingers_box_opus48_Batch14.json",
+   "v0_sha256": "8be627da9211e08e20be33ffadf5f7006bf1e1b7699b4235bc294731e6783324",
+   "file": "schrodingers_box_opus48_Batch14.json",
+   "source": "data\\journals\\Batch_14\\schrodingers_box_opus48_Batch14.json",
+   "sha256": "8be627da9211e08e20be33ffadf5f7006bf1e1b7699b4235bc294731e6783324",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 15,
+   "v0_file": "schrodingers_box_fable5_Batch15.json",
+   "v0_sha256": "09173c4bcfef36c6a762f0be8b4a7e66dc0fdba348b5a903926c488e5e306d08",
+   "file": "schrodingers_box_fable5_Batch15.json",
+   "source": "data\\journals\\Batch_15\\schrodingers_box_fable5_Batch15.json",
+   "sha256": "09173c4bcfef36c6a762f0be8b4a7e66dc0fdba348b5a903926c488e5e306d08",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 15,
+   "v0_file": "schrodingers_box_opus45_Batch15.json",
+   "v0_sha256": "da394cd443a44d8acbb0ea92aef12c1210e3cb271451f8153dcf8560e5d3bc76",
+   "file": "schrodingers_box_opus45_Batch15.json",
+   "source": "data\\journals\\Batch_15\\schrodingers_box_opus45_Batch15.json",
+   "sha256": "da394cd443a44d8acbb0ea92aef12c1210e3cb271451f8153dcf8560e5d3bc76",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 15,
+   "v0_file": "schrodingers_box_opus46_Batch15.json",
+   "v0_sha256": "edd40fa5e9b19a7dac0160f28e6d475276761dc09cc1377427eb234f9b19506b",
+   "file": "schrodingers_box_opus46_Batch15.json",
+   "source": "data\\journals\\Batch_15\\schrodingers_box_opus46_Batch15.json",
+   "sha256": "edd40fa5e9b19a7dac0160f28e6d475276761dc09cc1377427eb234f9b19506b",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 15,
+   "v0_file": "schrodingers_box_opus47_Batch15.json",
+   "v0_sha256": "ed1604490b6f5524a8f220c143488b3a3210eb1e52930ffe42b7eecabf26a9b7",
+   "file": "schrodingers_box_opus47_Batch15.json",
+   "source": "data\\journals\\Batch_15\\schrodingers_box_opus47_Batch15.json",
+   "sha256": "ed1604490b6f5524a8f220c143488b3a3210eb1e52930ffe42b7eecabf26a9b7",
+   "entries": 20,
+   "silences": 0
+  },
+  {
+   "batch": 15,
+   "v0_file": "schrodingers_box_opus48_Batch15.json",
+   "v0_sha256": "89c73061875a95cd1a89bb9cb650b278cfea8c2d4f3770443e5e46b05ec38d64",
+   "file": "schrodingers_box_opus48_Batch15.json",
+   "source": "data\\journals\\Batch_15\\schrodingers_box_opus48_Batch15.json",
+   "sha256": "89c73061875a95cd1a89bb9cb650b278cfea8c2d4f3770443e5e46b05ec38d64",
+   "entries": 20,
+   "silences": 0
+  }
+ ]
+}
