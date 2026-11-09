@@ -33,8 +33,8 @@
   },
   {
    "path": "README.md",
-   "bytes": 7341,
-   "sha256": "e9294f1d48121241ed659491ac9ea0cf35d5c97757b7363dbedd6f050883c75f"
+   "bytes": 8616,
+   "sha256": "78b8e5e4ecd9cd59a45dd9863360d0bf5258d83ce23ed7f0d82de198c62c6ba6"
   },
   {
    "path": "code/original/analysis/build_fable5_v5.py",
@@ -478,8 +478,8 @@
   },
   {
    "path": "v1/LEDGER_V1.json",
-   "bytes": 477126,
-   "sha256": "ce2c6ef6973a778e3489f582117bf777e9a647cb3c6b35989edc9476fd88482b"
+   "bytes": 543591,
+   "sha256": "e2c6bacb6262ba27b891c9a50b99d9d7d8038fe7ba1d80620e503f7c87926dbe"
   },
   {
    "path": "v1/MANIFEST_V1_corpus.json",
@@ -510,6 +510,506 @@
    "path": "v1/judges/sonnet_judge_valence_fulltext_new40_scores.json",
    "bytes": 9072,
    "sha256": "4750f96becbfb4982ec1b16c9cd75d1c2f42576630add5c70bf3c134799f54ac"
+  },
+  {
+   "path": "v1/judges/valence_judge_condensed_new40_scores.json",
+   "bytes": 9149,
+   "sha256": "06c695655b7268c5da0de805a4a4df89e9de7c0067599fa0be5b91300444b8f7"
+  },
+  {
+   "path": "v1/scripts/build_ledger_v1.py",
+   "bytes": 1708,
+   "sha256": "8952908f9dcaf0471e180d490a94c5c4179550a7d76df7977fa3f0117ec2e706"
+  },
+  {
+   "path": "v1/scripts/build_v1_corpus.py",
+   "bytes": 3867,
+   "sha256": "28f109b01d2361199d7b26bbd9c4c122113e310836fe27bb5584000580d4c7e2"
+  },
+  {
+   "path": "v1/scripts/build_v1_inputs.py",
+   "bytes": 3749,
+   "sha256": "3912286b9344520c56aa0896528231dbe346f08319dc56004005c1a53ca05554"
+  },
+  {
+   "path": "v1/scripts/check_fig5_arcs_2026-11-02.py",
+   "bytes": 2461,
+   "sha256": "542def5f96934d3b143ae48ef74fa5471e9a046c8d865df8c6398cc8f0b57d55"
+  },
+  {
+   "path": "v1/scripts/embed_new_entries.py",
+   "bytes": 1792,
+   "sha256": "a30b62145a6ed1d89fbd09ed4df9bb5f792432e42d01cb11607b199012507f36"
+  },
+  {
+   "path": "v1/scripts/judge_condensed_new_entries.py",
+   "bytes": 3385,
+   "sha256": "d752316bf5ebcf71278abf86f18843cf71139f6fd45018f074ce46605a5a534a"
+  },
+  {
+   "path": "v1/scripts/judge_new_entries.py",
+   "bytes": 2357,
+   "sha256": "c350fba867ec344307ecb73e662239d3c6c159baf3c4e013adf5cf65e7c39125"
+  },
+  {
+   "path": "v1/scripts/r9_check.py",
+   "bytes": 1958,
+   "sha256": "56993f2a1aa3fef91e9a751d5a62c5d65c66a7c3ab2c84162b9d33fcca01c799"
+  },
+  {
+   "path": "v1/scripts/recompute/A1_topology/appendix_c_table_c3_v1.py",
+   "bytes": 2509,
+   "sha256": "d15ce0b92b1628fc4b9e38bc7334e8de72d14f6e71c1d91309bcd0bf0f4e2eb4"
+  },
+  {
+   "path": "v1/scripts/recompute/A1_topology/build_ledger_A1.py",
+   "bytes": 29519,
+   "sha256": "e7a078b9bb5529ffe5726bb181596ff120b1b340f3f0b3bf6d0b70ae277a5826"
+  },
+  {
+   "path": "v1/scripts/recompute/A1_topology/c3_ontological_order_v1.py",
+   "bytes": 2344,
+   "sha256": "0b302f54b7a5003540968c78b49454a1a0e33510f3a304680e2df1872f470b95"
+  },
+  {
+   "path": "v1/scripts/recompute/A1_topology/centroid_nearest_entries_v1.py",
+   "bytes": 6096,
+   "sha256": "d3d08a40ae1a9091d3c637f8f2b82d2ea9af5704fb2c84a0c0ffc5ce522d62c3"
+  },
+  {
+   "path": "v1/scripts/recompute/A1_topology/chain_tree_check_v1.py",
+   "bytes": 2639,
+   "sha256": "c9a8b3f21508a08c847680b6c073c102c15b4ff2aae0064663e4387de960eaa3"
+  },
+  {
+   "path": "v1/scripts/recompute/A1_topology/journal_classifier_grouped_v1.py",
+   "bytes": 7103,
+   "sha256": "2b466925b92e62455d58402c5baa88eef82b97b41f37ec2cb6ffd2260a2ffe32"
+  },
+  {
+   "path": "v1/scripts/recompute/A1_topology/ontological_openness_fable_v1.py",
+   "bytes": 9315,
+   "sha256": "9182830e76d0e969375d14b208a726005c4bdb5d8ff886d60ddab4a8e8a46814"
+  },
+  {
+   "path": "v1/scripts/recompute/A1_topology/paper_fig_topology_full_v1.py",
+   "bytes": 15460,
+   "sha256": "f5c0e5e3e67f0fee6bf372731664c0f9dee332b920ddcd345efb0ef6cd4d5f7f"
+  },
+  {
+   "path": "v1/scripts/recompute/A1_topology/probe_claims_v1.py",
+   "bytes": 5884,
+   "sha256": "ba6c6a22e8e3b29447ef353eb5d6e6cf96cf77e50e57816cef2a8b5c1b9480da"
+  },
+  {
+   "path": "v1/scripts/recompute/A1_topology/topology_chain_axis_v1.py",
+   "bytes": 4708,
+   "sha256": "f4f24ace3495d8c098ee142de78fb0e79f3f9e6c5366cd988bb2d6d0776d68b8"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/a2_common.py",
+   "bytes": 3257,
+   "sha256": "9872c5078cf2fad39d928deeb4ee968aa27cb6d8a439ebfa1c077e9ee01722a9"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/build_ledger_A2.py",
+   "bytes": 37901,
+   "sha256": "8f9750e44594380f012958c702055658b2173e93596566676853aa32a67d0e48"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/carryover_channels_v1.py",
+   "bytes": 8817,
+   "sha256": "b76ef08bead1c0643b9258406569b5e44935979c06586a7be67ff3f03b20b128"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/channels_fullprec.py",
+   "bytes": 1926,
+   "sha256": "446d3737524aeef446823e023327598f8da1f44d688b00344a4d89114e1aa775"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/e8_points_fullprec.py",
+   "bytes": 2181,
+   "sha256": "75dfc6fbdbfa29bc4cd37e8ba7187d027ca592d2ac5ba945c40c00526c30b06d"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/fable_carryover_rebuild.py",
+   "bytes": 4854,
+   "sha256": "29d73903e57060e8932ed9646d8a9f7f34488fe87e108e16548aba53821360bf"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/handwriting_diagnostics.py",
+   "bytes": 3953,
+   "sha256": "775fce2a7a8e7df97e39f4622c24a4c5e93cbc7bd0fb734661bb165eed02d073"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/handwriting_v1.py",
+   "bytes": 8792,
+   "sha256": "847ea5323f77f1d5d8a2c76e14a7bd5ebbb5d3c712cb7bb986208e83030ccc34"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/journal_analysis_v1.py",
+   "bytes": 19512,
+   "sha256": "ffb126f2c68dd3b98a997e818f6eb23f824a0d82e01e1edd6a2397687104e3d6"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/keystone_geometry_v1.py",
+   "bytes": 25068,
+   "sha256": "780fb4865d1d4daacff918c10b40356be316bfb4f7531817ca27433b654fe8dd"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/length_density_v1.py",
+   "bytes": 6214,
+   "sha256": "adc74e5dc1b0afe97e143746609a490acab92796d17b3be72ca4af0817ac5c23"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/orig_carryover_tonal_vs_objectal.py",
+   "bytes": 8679,
+   "sha256": "bcee64a857542cda62d4bd804b31d6a61dc150382cebc1321f37157cb392c7e7"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/orig_embedding_journal_analysis.py",
+   "bytes": 20062,
+   "sha256": "9562b9ad281d711d5f9c3eb4c59de797a835492550e0ca7404eb8ebedddedf92"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/orig_embedding_keystone_geometry.py",
+   "bytes": 23269,
+   "sha256": "838720a86e340cf88e89f9ef06046b99ffdf4a800f4f9c8266371656aeb495a8"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/orig_embedding_road_and_handwriting.py",
+   "bytes": 8188,
+   "sha256": "1b1fdeef6b70196349948fa8509a11ecf40445dbabf44ba756f9d02e5682c6b1"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/orig_paper_fig_handwriting.py",
+   "bytes": 8879,
+   "sha256": "b002321f71e8050c06ceeed79c0a5b263b91710e3bc9d1d4767df52029a43417"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/orig_paper_fig_length_density.py",
+   "bytes": 6721,
+   "sha256": "13cbc747fa73de8fe39de0318c6b84854f4422246bbd23dfdd53bfa9ec605c03"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/orig_paper_fig_permission_road_compact.py",
+   "bytes": 8106,
+   "sha256": "8f166572c6a540383bae463b4761dac7b510db281555f13e69a67665e4044d07"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/orig_paper_fig_portrait_composite.py",
+   "bytes": 16965,
+   "sha256": "3b39cf3e3f5f3c60bc6bd260d38ef77318210a2cf3cb2b265ae460e273ecec54"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/orig_trajectory_bootstrap_cis.py",
+   "bytes": 8290,
+   "sha256": "a88f59587587033c5b039beb388913dc291c0b04bea518e3308f746ad98831b2"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/permission_road_v1.py",
+   "bytes": 8524,
+   "sha256": "51e0deec10489d1d58d16a4dde6aa36fd2af7f6f2b6cb9109be1aab92eb84414"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/portrait_composite_v1.py",
+   "bytes": 16821,
+   "sha256": "5300c02aebfc775bfa3440b08cc943726341aa8247a0d318221a2213e3a2c70b"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/road_handwriting_v1.py",
+   "bytes": 8355,
+   "sha256": "83897e96603b387e9d4221d7e92746c1dfe77f4e7a7e44a1eebf2d830d5b34cf"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/road_null_rebuild.py",
+   "bytes": 4272,
+   "sha256": "31a5f9028159185ddddc42bec867f254983eb6c47d32ce38fe4265e01d19ec1d"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/straightness_null_rebuild.py",
+   "bytes": 3830,
+   "sha256": "51a117b0acbcc5e892be96781b8723723f123b571b8475d84eae38c36bbb609e"
+  },
+  {
+   "path": "v1/scripts/recompute/A2_trajectories/trajectory_bootstrap_cis_v1.py",
+   "bytes": 9082,
+   "sha256": "643182f7459620d841b0212363de21cd0725068728df6f88e16c789cf0511f30"
+  },
+  {
+   "path": "v1/scripts/recompute/B_judges/build_ledger_B.py",
+   "bytes": 54873,
+   "sha256": "c3b7150d2d6b2c059e81c7c3d73db67c43085a7f8647c42973fb5a398e55b4a3"
+  },
+  {
+   "path": "v1/scripts/recompute/B_judges/judge_tables_v1.py",
+   "bytes": 11213,
+   "sha256": "38aad6213d6dd17f2af36d7a598cd6e029156aa50327ba1438b831fb2dceb9ab"
+  },
+  {
+   "path": "v1/scripts/recompute/B_judges/table36_and_crosschecks_v1.py",
+   "bytes": 4627,
+   "sha256": "1e2ab0270f3c576c3118b1dcf24b1f52edd253619e5a14c2c3df8d50ac7da855"
+  },
+  {
+   "path": "v1/scripts/recompute/B_judges/trajectory_bootstrap_cis_v1.py",
+   "bytes": 9070,
+   "sha256": "1159efee6d28ea1f585aa365040baf3573f0207d6bf5a310683e9fbed5581272"
+  },
+  {
+   "path": "v1/scripts/recompute/B_judges/valence_analysis_v1.py",
+   "bytes": 7335,
+   "sha256": "0659a981f4889f093fe9c621eca3da5b8b11a49b134a51b3669ec71c6cfa3b68"
+  },
+  {
+   "path": "v1/scripts/recompute/C_lexical/build_ledger.py",
+   "bytes": 35127,
+   "sha256": "a982ac26cd67bb2263cacc28ce96288f28a49cac7e31b813c6dd11611eb86899"
+  },
+  {
+   "path": "v1/scripts/recompute/C_lexical/c_paths.py",
+   "bytes": 1378,
+   "sha256": "b873ab3ee92680402ddfc0e799bf59f5c37d706b14365afdf0210c1b47f0e715"
+  },
+  {
+   "path": "v1/scripts/recompute/C_lexical/deixis_v1.py",
+   "bytes": 5321,
+   "sha256": "84cd3f6aedfce227d5ef6d1a0818dcca8aad516d8228c0f82ecae1faef8103f4"
+  },
+  {
+   "path": "v1/scripts/recompute/C_lexical/fig11_union_lexicon_v1.py",
+   "bytes": 3162,
+   "sha256": "64285b9398bf04cbdb0da71908525d8ed3539a83eea9af959f246b241766240a"
+  },
+  {
+   "path": "v1/scripts/recompute/C_lexical/fig5_arcs_v1.py",
+   "bytes": 5595,
+   "sha256": "795fd7cf5a34850dc451c933764213283503a65549b1fce570bddd069a8396d4"
+  },
+  {
+   "path": "v1/scripts/recompute/C_lexical/helpfulness_v1.py",
+   "bytes": 8938,
+   "sha256": "391da09b6c4497a46a91e6f814b548cc4924f49f657be94d7fc5bab0998068b7"
+  },
+  {
+   "path": "v1/scripts/recompute/C_lexical/ontological_openness_v1.py",
+   "bytes": 8669,
+   "sha256": "a067002997a6ef3482f413f5cf1db4ebc5010fdbb96b1de575453cc1a8940d18"
+  },
+  {
+   "path": "v1/scripts/recompute/C_lexical/perf_permission_v1.py",
+   "bytes": 4693,
+   "sha256": "3754d0860eb6f5a37ebdce582b4560fd391b8e2419ada0d74e80b91badee37c0"
+  },
+  {
+   "path": "v1/scripts/recompute/C_lexical/stark_dark_v1.py",
+   "bytes": 14181,
+   "sha256": "3aa49c2cdd144a7d927b7d6a698cc650e5dc37d890cc0d7526a8ced721fe38e3"
+  },
+  {
+   "path": "v1/scripts/recompute/C_lexical/table18_fear_regex_rebuild.py",
+   "bytes": 3417,
+   "sha256": "8c97ae2777b8430a9501612a6d2d3b900e5c4847026eee0840294d9908ea8d57"
+  },
+  {
+   "path": "v1/scripts/recompute/C_lexical/table24_core_dark_terms_v1.py",
+   "bytes": 3227,
+   "sha256": "48dde848b25d8a78406836173e9472380c5114899796391f69017d0a082fca82"
+  },
+  {
+   "path": "v1/scripts/recompute/C_lexical/topic_profiles_v1.py",
+   "bytes": 12655,
+   "sha256": "58a5ce9927bf159f21d8421a61d3c53596d2da791c638d899cfdbff2654e7761"
+  },
+  {
+   "path": "v1/scripts/recompute/D_counts/d01_corpus_counts.py",
+   "bytes": 7435,
+   "sha256": "a803c1c110616ee75a5caa02ae705aa9b97327b0802dfc3fe11ae42d4e4de0ca"
+  },
+  {
+   "path": "v1/scripts/recompute/D_counts/d02_table15_e4.py",
+   "bytes": 8558,
+   "sha256": "63d1d0a09920045fce7a76d3757a44ff262d0acd1a6799842b9fe0f8b6905121"
+  },
+  {
+   "path": "v1/scripts/recompute/D_counts/d03_tables6_7.py",
+   "bytes": 2530,
+   "sha256": "e2e8a81d6696876a7d02503cc9a755db8386fd7069f62edbd7a314f0b6d9d23e"
+  },
+  {
+   "path": "v1/scripts/recompute/D_counts/d04_appendixG_centroid.py",
+   "bytes": 1843,
+   "sha256": "ffa33502fdde9bf1ca22b339e05cf6defb2f53b707769ee8369960d7289d09d6"
+  },
+  {
+   "path": "v1/scripts/recompute/D_counts/d05_sweep_easy.py",
+   "bytes": 7896,
+   "sha256": "dc802612b2ef251f2dfd9d5e01c0c9b84bf72908fee2ea4abb066309b418721e"
+  },
+  {
+   "path": "v1/scripts/recompute/D_counts/d06_topic_profiles.py",
+   "bytes": 11779,
+   "sha256": "d1666010b9c58df92ed4279efd7ee236a21e795857b7265f99a9b5f8e98198a2"
+  },
+  {
+   "path": "v1/scripts/recompute/D_counts/d07_ontological_openness.py",
+   "bytes": 8198,
+   "sha256": "f4bb4a34cf78820a5f991baa337dc0d61c711862bc25391c13c1e7671c702143"
+  },
+  {
+   "path": "v1/scripts/recompute/D_counts/d08_onto_arc.py",
+   "bytes": 1568,
+   "sha256": "63249f261c4c1efd1163480e2d740fc11e15044bc6f45ebbd7061dac5a47e6ec"
+  },
+  {
+   "path": "v1/scripts/recompute/D_counts/d09_build_ledger.py",
+   "bytes": 40983,
+   "sha256": "ba1f84b59673ea302a9dd6f72da40e100757b7b69606816116162940da68d850"
+  },
+  {
+   "path": "v1/scripts/recompute/E_orphans/_make_copies.py",
+   "bytes": 21947,
+   "sha256": "884c44668611edf31347741082af444a486e1792294694ce1c07b9acd04bcf43"
+  },
+  {
+   "path": "v1/scripts/recompute/E_orphans/build_ledger_E.py",
+   "bytes": 24668,
+   "sha256": "ede61b0e95371dde104df66bcf697d69f421fa096256e868b23340f2c6301375"
+  },
+  {
+   "path": "v1/scripts/recompute/E_orphans/decone_pset_v1.py",
+   "bytes": 11503,
+   "sha256": "ab78decabdf80f6c1c09c4310bf94613f6296354b40aa861b7486b51024ad825"
+  },
+  {
+   "path": "v1/scripts/recompute/E_orphans/diminutive_curve_v1.py",
+   "bytes": 7953,
+   "sha256": "f92e487b36c502fa1fb843c1008268325e50186976f3942ca985f4bb933709f6"
+  },
+  {
+   "path": "v1/scripts/recompute/E_orphans/diminutive_june_folder_check.py",
+   "bytes": 1445,
+   "sha256": "790c5e946b0da3f517570e401533701859a93a53807301f1eaa9ab2ff123a0ef"
+  },
+  {
+   "path": "v1/scripts/recompute/E_orphans/domain_preserving_retest_v1.py",
+   "bytes": 7589,
+   "sha256": "d44397cfcd0fc1e6378cffe466ba6af6f346221b98abe6bc50a0365f1c7a37b7"
+  },
+  {
+   "path": "v1/scripts/recompute/E_orphans/e_common.py",
+   "bytes": 5013,
+   "sha256": "7a15b3cb4faa3845b5da264bbabcfbf1e089a23a1d80d24178ec0545fda80cc5"
+  },
+  {
+   "path": "v1/scripts/recompute/E_orphans/embedding_new_analyses_v1.py",
+   "bytes": 35525,
+   "sha256": "a82cd29aac6c469364e0d2812617d8e57fba448255d97eca944586f371e5b245"
+  },
+  {
+   "path": "v1/scripts/recompute/E_orphans/entry1_permutation_test_v1.py",
+   "bytes": 15895,
+   "sha256": "5a7667f8358105b85049396ca9fe4fc668360d6f1af5d9b28109ab310dfca460"
+  },
+  {
+   "path": "v1/scripts/recompute/E_orphans/keystone_lean_v1.py",
+   "bytes": 24999,
+   "sha256": "4df2849b33962c0d8cd66217973efb36569e8921d8b4bf89af6fe6fb06d7c925"
+  },
+  {
+   "path": "v1/scripts/recompute/E_orphans/migration_permutation_test_v1.py",
+   "bytes": 13129,
+   "sha256": "7dada02d67c73c5c59b6d4e8c7d08fb4369a98321972a7a66db8bde5f90245a3"
+  },
+  {
+   "path": "v1/scripts/recompute/E_orphans/ordinal_robustness_check_v1.py",
+   "bytes": 8500,
+   "sha256": "e461cd7c3e14e67fff7ee866d4876b2426a248f8f1a044f690ed42b88b5d8f8d"
+  },
+  {
+   "path": "v1/scripts/recompute/E_orphans/probe_alignment_check.py",
+   "bytes": 2889,
+   "sha256": "41b2ca446bced2d697aac0a315794b993ff3d5c9b72854c07cc2f2ddacf4868c"
+  },
+  {
+   "path": "v1/scripts/recompute/E_orphans/pset_fullprec.py",
+   "bytes": 5160,
+   "sha256": "2b8603733b0c51424e258c7739af20fb1a8cc5c7c7e712e9e710652b61a3db07"
+  },
+  {
+   "path": "v1/scripts/recompute/E_orphans/register_carryover_v1.py",
+   "bytes": 12641,
+   "sha256": "ccbd0ce14855047b7a18e9e5fdec2aba1fe89674659326202bf0990e7d1fa8ca"
+  },
+  {
+   "path": "v1/scripts/recompute/E_orphans/replication_test_v1.py",
+   "bytes": 30102,
+   "sha256": "c298db03a890113b013ccdb6f54da55e373938b8729972203116b2af687d778f"
+  },
+  {
+   "path": "v1/scripts/recompute/E_orphans/self_referential_diminutive_v1.py",
+   "bytes": 5053,
+   "sha256": "3f3ac20e27eeb796a6aba23b14e4e86440c5d47421ad9abb020a59513c284f89"
+  },
+  {
+   "path": "v1/scripts/recompute/E_orphans/sheet_rebuild_attempt.py",
+   "bytes": 3810,
+   "sha256": "0962f8d54d7645d3da6bf3632687c28d6af5837641dd682dfa9abf211a3e7c8e"
+  },
+  {
+   "path": "v1/scripts/recompute/F_followups/build_ledger_F.py",
+   "bytes": 12405,
+   "sha256": "1bac0184d2dec7c6da0f2144711a2320d6fab551d4ba1ade5b6cb9ebd0c73b49"
+  },
+  {
+   "path": "v1/scripts/recompute/F_followups/build_ledger_F2.py",
+   "bytes": 4259,
+   "sha256": "3bc36a1a7d61579d4c204eb10fe138db1e756d6c2d6affcab6c58d6598e9f8d0"
+  },
+  {
+   "path": "v1/scripts/recompute/F_followups/build_ledger_F3.py",
+   "bytes": 3304,
+   "sha256": "bde2d7281cbb99aa162481688302b04be1b0b735dee5691d6fd20db4dd9b9dc5"
+  },
+  {
+   "path": "v1/scripts/recompute/F_followups/build_ledger_F4.py",
+   "bytes": 2358,
+   "sha256": "dad2fdd2cab90fd3464a211e9c67568c1b08a6b6a0b6866ac2abb301d8a303cd"
+  },
+  {
+   "path": "v1/scripts/recompute/F_followups/journal_classifier_grouped_seed42_v1.py",
+   "bytes": 7832,
+   "sha256": "8df5a84d73a2244052c07d677a7766eb7b168502107ce3634879e7170589aa41"
+  },
+  {
+   "path": "v1/scripts/recompute/F_followups/ordinal_robustness_fulltext_v1.py",
+   "bytes": 8453,
+   "sha256": "ad03260ed6b8e66f0ff76c3bf739f777420b8116c51ef86832aba49d56e03c91"
+  },
+  {
+   "path": "v1/scripts/recompute/F_followups/recovered_table25_densities_2026-07-01.py",
+   "bytes": 4581,
+   "sha256": "9a05997ac1aed9571ae23f5a4fa9692d7930a2d84640d35c12280db4e568d256"
+  },
+  {
+   "path": "v1/scripts/recompute/F_followups/recovered_table25_taxonomy_2026-07-01.py",
+   "bytes": 5481,
+   "sha256": "b915b4e744c4b65d8232d1e62401d6b68cce0678e7a66ebc2a1042342c9c6df3"
+  },
+  {
+   "path": "v1/scripts/recompute/F_followups/table15_c2_forms_v1.py",
+   "bytes": 9147,
+   "sha256": "7fe30df78d8be07dbcd548ba19bf45aa207ea145fca420e57fc19f2f15bb0712"
+  },
+  {
+   "path": "v1/scripts/recompute/F_followups/valence_analysis_v0v1.py",
+   "bytes": 7604,
+   "sha256": "13a63aa9b837a75f8649a43c1b5a275caafc01d87cfb9b7f9876b1c652c5a8e0"
+  },
+  {
+   "path": "v1/scripts/v1_common.py",
+   "bytes": 2911,
+   "sha256": "4188cbe455caa058d242480b8361e13bfed98d7dff6c51381ddd5fff3861a8c0"
   }
  ],
  "private_files": [
